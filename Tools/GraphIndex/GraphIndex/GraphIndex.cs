@@ -46,7 +46,7 @@ namespace GraphIndex
             else
                 fileDir = Application.StartupPath;
 
-            if (!history_image.Equals("null") && !history_image.Equals("null"))
+            if (!history_image.Equals("null") && !history_imgae_extension.Equals("null"))
             {
                 if (File.Exists(history_image))
                 {

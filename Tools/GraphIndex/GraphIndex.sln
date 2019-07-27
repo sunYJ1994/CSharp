@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphIndex", "GraphIndex\GraphIndex.csproj", "{ED57B2DA-ABAA-4E4A-8661-BF14DE40FE99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED57B2DA-ABAA-4E4A-8661-BF14DE40FE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED57B2DA-ABAA-4E4A-8661-BF14DE40FE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED57B2DA-ABAA-4E4A-8661-BF14DE40FE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED57B2DA-ABAA-4E4A-8661-BF14DE40FE99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5F4EC2-4A64-4E88-88F5-9D6042FCDE7F}
+	EndGlobalSection
+EndGlobal
